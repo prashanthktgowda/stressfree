@@ -4,7 +4,7 @@ setup(
     name='mylib',
     version='0.1',
     description='A library that stores and prints text section-wise',
-    author='Your Name',
+    author='prashanthktgowda',
     author_email='your.email@example.com',
     license='MIT',
     packages=find_packages(),
